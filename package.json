@@ -1,0 +1,26 @@
+{
+  "name": "calculomedia1",
+  "version": "1.0.0",
+  "description": "Exercicio do professor na faculdade de ADS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smart624/calculoMedia1.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smart624/calculoMedia1/issues"
+  },
+  "homepage": "https://github.com/Smart624/calculoMedia1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
